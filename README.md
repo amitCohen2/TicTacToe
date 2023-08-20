@@ -38,7 +38,7 @@ Completed
 
 <div align="center">
 
-![](static/images/Main-Form.png)
+![](static/images/Main-Form.png)<br>
 ![](static/images/Game-Board-Form.png)
 ![](static/images/Tie-Form.png)
 
